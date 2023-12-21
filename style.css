@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    font-family: 'Silkscreen', sans-serif;
+}
+h1{
+
+    font-size: 25px;
+    color:black ;
+
+}
+p{
+font-size: 26px;
+color:black;
+
+}
+img{
+    width:400px;
+    right:400px;
+}
